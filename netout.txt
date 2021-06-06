@@ -1,0 +1,8 @@
+IPv4 address: 103.217.240.200
+SSIDs order by strength:
+IN-USE  BSSID              SSID      MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+*       BC:0F:9A:EA:29:B8  SIDS      Infra  1     270 Mbit/s  69      ▂▄▆_  WPA2      
+        E0:1C:FC:42:46:54  DEBARATI  Infra  4     270 Mbit/s  45      ▂▄__  WPA1 WPA2 
+        68:FF:7B:18:B3:BC  AKC       Infra  11    270 Mbit/s  32      ▂▄__  WPA2      
+        E8:65:D4:ED:39:F0  Kamal     Infra  3     270 Mbit/s  25      ▂___  WPA1 WPA2 
+Password: sids@123
