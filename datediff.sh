@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# BASH script to print difference in days between two dates given as input
+
 # dates should be in the format yyyymmdd
 
 DATE1=$(date +%s -d $1)

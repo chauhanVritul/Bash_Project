@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# BASH script to print public IP, show a list of available SSID order by strength
+# gets the password of currently connected SSID, delete already saved connection ruchishivani
+
 touch netout.txt
 echo IPv4 address: $(curl ifconfig.me) 1>netout.txt
 
