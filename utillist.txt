@@ -1,0 +1,11 @@
+google-chrome
+vlc
+apache
+node
+curl
+vim
+python
+pacman
+bash
+zsh
+awesomescript
